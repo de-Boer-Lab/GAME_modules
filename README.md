@@ -12,7 +12,7 @@ If you would like to share your Evaluator or Predictor container please follow t
 
 | Predictor  | Container Download link  | Description |
 | :------------ |:---------------| :-----|
-|               |               |         |
+| DeepBICCN2 (no matcher)              |  https://zenodo.org/records/16756668             | Peak regression model for mm10 (19 cell types)       |
 
 
 #### Evaluators
