@@ -20,6 +20,6 @@ If you would like to share your Evaluator or Predictor container please follow t
 
 | Evaluator  | Container Download link  | Description |
 | :------------ |:---------------| :-----|
-|                |                |       |
+| Consistency Evaluator Point Request (Astro/mus_musculus)               | https://zenodo.org/records/16756745               | Consistency Evaluator for mus_musculus in Astrocytes        |
 
 If you have any questions feel free to reach out to Ishika Luthra (ishika.luthra@ubc.ca)
