@@ -14,6 +14,7 @@ If you would like to share your Evaluator or Predictor container please follow t
 | :------------ |:---------------| :-----|
 | DeepBICCN2 (no matcher)              |  https://zenodo.org/records/16756668             | Peak regression model for mm10 (19 cell types)       |
 | ORCA - H1-ESC (1M)              |  https://zenodo.org/records/16763522             | Hi-C Chromatin Conformation Predictor for H1-ESC (1M resolution model)       |
+| Borzoi Human              |  https://zenodo.org/records/16808873             | Multi-assay coverage and gene regulation predictor for human (hg38)       |
 
 
 #### Evaluator Modules
