@@ -32,6 +32,7 @@ If you would like to share your Evaluator or Predictor container please follow t
 
 | Matcher  | Container Download link  | Description |
 | :------------ |:---------------| :-----|
-|                |              |         |
+| Matcher V1               | https://zenodo.org/records/16815812             | A containerized, LLM-powered genomics ontology matcher using a chunk-and-compete algorithm to handle large vocabularies.        |
+| Matcher V2               | [LINK HERE]             | An upgraded LLM-powered genomics ontology matcher with a recursive tournament algorithm for superior scalability and more precise, granular matching.        |
 
 If you have any questions feel free to reach out to Ishika Luthra (ishika.luthra@ubc.ca)
