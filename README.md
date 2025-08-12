@@ -21,6 +21,8 @@ If you would like to share your Evaluator or Predictor container please follow t
 
 | Evaluator  | Container Download link  | Description |
 | :------------ |:---------------| :-----|
+| Consistency Evaluator Point Request (K562/homo_sapiens)               | https://zenodo.org/records/16814605               | Consistency Evaluator (point) for homo_sapiens in K562        |
+| Consistency Evaluator Track Request (K562/homo_sapiens)               | https://zenodo.org/records/16814739               | Consistency Evaluator (track) for homo_sapiens in K562        |
 | Consistency Evaluator Point Request (Astro/mus_musculus)               | https://zenodo.org/records/16756745               | Consistency Evaluator for mus_musculus in Astrocytes        |
 
 
