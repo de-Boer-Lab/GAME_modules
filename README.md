@@ -25,6 +25,8 @@ If you would like to share your Evaluator or Predictor container please follow t
 | Consistency Evaluator Point Request (K562/homo_sapiens)               | https://zenodo.org/records/16815570               | Consistency Evaluator (point) for homo_sapiens in K562        |
 | Consistency Evaluator Track Request (K562/homo_sapiens)               | https://zenodo.org/records/16815630               | Consistency Evaluator (track) for homo_sapiens in K562        |
 | Consistency Evaluator Point Request (Astro/mus_musculus)               | https://zenodo.org/records/16815635               | Consistency Evaluator for mus_musculus in Astrocytes        |
+| 3D Chromatin interaction Evaluator (H1-ESC, Chromosome 8)              | https://zenodo.org/records/16817874               | 3D Chromatin interaction Evaluator - Chromosome 8 in H1-ESC        |
+| 3D Chromatin interaction Evaluator (H1-ESC, Chromosome 9)              | https://zenodo.org/records/16877509               | 3D Chromatin interaction Evaluator - Chromosome 9 in H1-ESC        |
 
 
 #### Matcher Modules
