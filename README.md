@@ -22,6 +22,7 @@ If you would like to share your Evaluator or Predictor container please follow t
 
 | Evaluator  | Container Download link  | Description |
 | :------------ |:---------------| :-----|
+| Martyn et al. (2025) Variant-EFFECTS Evaluator              | https://zenodo.org/records/16914394              | Variant effect predictions in THP-1 monocytes and Jurkat T cells.|
 | Consistency Evaluator Point Request (K562/homo_sapiens)               | https://zenodo.org/records/16815570               | Consistency Evaluator (point) for homo_sapiens in K562        |
 | Consistency Evaluator Track Request (K562/homo_sapiens)               | https://zenodo.org/records/16815630               | Consistency Evaluator (track) for homo_sapiens in K562        |
 | Consistency Evaluator Point Request (Astro/mus_musculus)               | https://zenodo.org/records/16815635               | Consistency Evaluator for mus_musculus in Astrocytes        |
