@@ -25,6 +25,8 @@ If you would like to share your Evaluator or Predictor container please follow t
 | Martyn et al. (2025) Variant-EFFECTS Evaluator              | https://zenodo.org/records/16914394              | Variant effect predictions in THP-1 monocytes and Jurkat T cells.|
 | Gosai et al. (2025) Synthetic CREs (51k)              | https://zenodo.org/records/16923210              | Expression predictions for 51k synthetic sequences in K562 (erythroid precursors), HepG2 (hepatocytes) and SK-N-SH (neuroblastoma) cells|
 | Gosai et al. (2025) Synthetic CREs (Downsampled to 500 sequences)              | https://zenodo.org/records/16953198              | Expression predictions for 500 synthetic sequences in K562 (erythroid precursors), HepG2 (hepatocytes) and SK-N-SH (neuroblastoma) cells|
+| Agarwal et al. (2025) Joint Library Dataset (56k sequences)               | https://zenodo.org/records/16956039              | Expression predictions for ~56k cCREs in WTC11, K562 and HepG2|
+| Agarwal et al. (2025) Joint Library Dataset (Downsampled to 500 sequences)               | https://zenodo.org/records/16956481              | Expression predictions for 500 cCREs in WTC11, K562 and HepG2|
 | Consistency Evaluator Point Request (K562/homo_sapiens)               | https://zenodo.org/records/16815570               | Consistency Evaluator (point) for homo_sapiens in K562        |
 | Consistency Evaluator Track Request (K562/homo_sapiens)               | https://zenodo.org/records/16815630               | Consistency Evaluator (track) for homo_sapiens in K562        |
 | Consistency Evaluator Point Request (Astro/mus_musculus)               | https://zenodo.org/records/16815635               | Consistency Evaluator for mus_musculus in Astrocytes        |
