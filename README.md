@@ -15,6 +15,8 @@ If you would like to share your Evaluator or Predictor container please follow t
 | DeepBICCN2 (no matcher)              |  https://zenodo.org/records/16756668             | Peak regression model for mm10 (19 cell types)       |
 | ORCA - H1-ESC (1M)              |  https://zenodo.org/records/16763522             | Hi-C Chromatin Conformation Predictor for H1-ESC (1M resolution model)       |
 | Borzoi Human              |  https://zenodo.org/records/16808873             | Multi-assay coverage and gene regulation predictor for human (hg38)       |
+| Enformer Human              |  https://zenodo.org/records/16953438             | Multi-assay coverage and gene regulation predictor using long-range interactions for human (hg38)       |
+| DREAM-RNN Human K562              |  https://zenodo.org/records/16953257             | Promoter expression predictor (optimized RNN) for human K562 cells     |
 
 
 #### Evaluator Modules
@@ -40,6 +42,6 @@ If you would like to share your Evaluator or Predictor container please follow t
 | Matcher  | Container Download link  | Description |
 | :------------ |:---------------| :-----|
 | Matcher V1               | https://zenodo.org/records/16815812             | A containerized, LLM-powered genomics ontology matcher using a chunk-and-compete algorithm to handle large vocabularies.        |
-| Matcher V2               | [LINK HERE]             | An upgraded LLM-powered genomics ontology matcher with a recursive tournament algorithm for superior scalability and more precise, granular matching.        |
+| Matcher V2               | https://zenodo.org/records/16971848            | An upgraded LLM-powered genomics ontology matcher with a recursive tournament algorithm for superior scalability and more precise, granular matching.        |
 
 If you have any questions feel free to reach out to Ishika Luthra (ishika.luthra@ubc.ca)
