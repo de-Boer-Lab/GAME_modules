@@ -5,7 +5,7 @@ If you would like to share your Evaluator or Predictor container please follow t
 1. Fork this repo
 2. Edit either the Predictors/Evaluators table with your addition
 3. Submit a pull request
-4. We will review and merge the changes
+4. We will review and merge the changes.
 
 #### Predictor Modules
 
