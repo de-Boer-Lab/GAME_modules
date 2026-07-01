@@ -7,21 +7,23 @@ If you would like to share your Evaluator or Predictor container please follow t
 3. Submit a pull request
 4. We will review and merge the changes
 
-We encourage all contributors to include the code they used to build their containers on their independent Github repositories. This helps users understand implementation details and allows for reusable code. 
+We encourage all contributors to include the link to their code used to build their containers. This helps users understand implementation details and allows for reusable code. 
 
 #### Predictor Modules
 
 
-| Predictor  | Container Download link  | Description |
-| :------------ |:---------------| :-----|
-| DeepBICCN2 (no matcher)              |  https://zenodo.org/records/17804107            | Peak regression model for mm10 (19 cell types)       |
-| ORCA - H1-ESC (1M)              |  https://zenodo.org/records/18182683            | Hi-C Chromatin Conformation Predictor for H1-ESC (1M resolution model)       |
-| Borzoi Human              |  https://zenodo.org/records/18182688             | Multi-assay coverage and gene regulation predictor for human (hg38)       |
-| Enformer Human              |  https://zenodo.org/records/18182763             | Multi-assay coverage and gene regulation predictor using long-range interactions for human (hg38)       |
-| DREAM-RNN Human K562              |  https://zenodo.org/records/18178626             | Promoter expression predictor (optimized RNN) for human K562 cells     |
-| ChromBPNet              |  https://zenodo.org/records/18182691             | 45 individual chromatin accessibility models (ATAC-seq models trained for K562, GM12878, HEPG2 andIMR90; DNASE trained models for K562, GM12878, HEPG2, IMR90, H1; 5 folds for each model)     |
-| CpG Predictor              |  https://zenodo.org/records/18182725            | Counter of CpG instances across the sequences    |
-| MPRA LegNet             |  https://huggingface.co/Ni-os/MPRALegNet-container             | CNN model optimized for predicting gene expression from human lentiMPRAs (massive parallel reporter assays) across human K562, HepG2, and WTC11 cell lines.    |
+| Predictor  | Container Download link  | Description | Github Repo |
+| :------------ |:---------------| :-----| :-----|
+| DeepBICCN2_20260616-135658_CEST              |  https://zenodo.org/records/20527751            | Peak regression model for mm10 (19 cell types)       | https://github.com/aertslab/GAME-DeepBICCN2-Predictor |
+| ORCA_1M_20260623-185003_EDT              |  https://huggingface.co/datasets/deBoerLab/Orca_Predictor_GAME/           | Hi-C Chromatin Conformation Predictor for H1-ESC (1M resolution model)       | |
+| Borzoi_Human_20260506-022639_PDT              |  https://huggingface.co/datasets/deBoerLab/Borzoi_Predictor_GAME             | Multi-assay coverage and gene regulation predictor for human (hg38)       | |
+| Enformer_20260601-173514_EDT              |  https://huggingface.co/datasets/deBoerLab/Enformer_Predictor_GAME            | Multi-assay coverage and gene regulation predictor using long-range interactions for human (hg38) and mus-musculus       | |
+| DREAM-RNN_Human_K562_20260430-012244_PDT              |  https://huggingface.co/datasets/deBoerLab/DREAMRNN_Predictor_GAME             | Promoter expression predictor (optimized RNN) for human K562 cells     | |
+| ChromBPNet              |  https://zenodo.org/records/18182691             | 45 individual chromatin accessibility models (ATAC-seq models trained for K562, GM12878, HEPG2 andIMR90; DNASE trained models for K562, GM12878, HEPG2, IMR90, H1; 5 folds for each model)     | |
+| CpG_Predictor_20260622-140930_EDT              |  https://huggingface.co/datasets/deBoerLab/CpG_Predictor_GAME            | Counter of CpG instances across the sequences    | |
+| MPRA LegNet             |  https://huggingface.co/Ni-os/MPRALegNet-container             | CNN model optimized for predicting gene expression from human lentiMPRAs (massive parallel reporter assays) across human K562, HepG2, and WTC11 cell lines.    | https://github.com/autosome-ru/GAME-LegNet-predictor-CAGI5-evaluator/tree/master/MPRALegNet_v2 |
+| ChromBPNet_20260528-171346_EDT             |  https://huggingface.co/datasets/deBoerLab/ChromBPNet_Predictor_GAME             | Chromatin Accessibility Predictor for 5 cell types   (5 model folds) | |
+| Evo2_7b_Predictor_20260619-145824_EDT             |  https://huggingface.co/datasets/deBoerLab/Evo2_Predictor_GAME             | Evo2 7B DNA language model    | |
 
 
 #### Evaluator Modules
