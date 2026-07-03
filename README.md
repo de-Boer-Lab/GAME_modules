@@ -47,7 +47,7 @@ We encourage all contributors to include the link to their code used to build th
 ## Additional Modules
 
 
-| Matcher | Versioned Module | GAME Schema Version | Container Download link | Description | Github Repo |
+| Module | Versioned Module | GAME Schema Version | Container Download link | Description | Github Repo |
 | :------------ | :--------------- | :-----: | :--------------- | :----- | :----- |
 | Matcher | Matcher_20260505-013416_PDT | 1.0 | https://huggingface.co/datasets/deBoerLab/Matcher_GAME | LLM-powered genomics ontology matcher with a recursive tournament algorithm for superior scalability and more precise, granular matching. | https://github.com/de-Boer-Lab/GAME_matcher |
 | Predictor Distributor | PredictorDistributor_20260505-042012_PDT | 1.0 | https://huggingface.co/datasets/deBoerLab/PredictorDistributor_GAME | Transparent load balancer/ orchestrater module to speed up predictions by dividing request across available Predictor nodes. | https://github.com/de-Boer-Lab/GAME-predictor-distributor |
