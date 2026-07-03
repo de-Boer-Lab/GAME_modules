@@ -14,7 +14,7 @@ We encourage all contributors to include the link to their code used to build th
 
 | Predictor | Versioned Module | GAME Schema Version | Container Download link | Description | Github Repo |
 | :------------ | :--------------- | :-----: | :--------------- | :----- | :----- |
-| DeepBICCN2 | DeepBICCN2_20260616-135658_CEST | 1.0 | https://zenodo.org/records/20527751 | Peak regression model for mm10 (19 cell types) | https://github.com/aertslab/GAME-DeepBICCN2-Predictor |
+| DeepBICCN2 | DeepBICCN2_20260616-135658_CEST | 1.0 | https://zenodo.org/records/20719441 | Peak regression model for mm10 (19 cell types) | https://github.com/aertslab/GAME-DeepBICCN2-Predictor |
 | ORCA | ORCA_1M_20260623-185003_EDT | 1.0 | https://huggingface.co/datasets/deBoerLab/Orca_Predictor_GAME/ | Hi-C Chromatin Conformation Predictor for H1-ESC (1M resolution model) | https://github.com/de-Boer-Lab/GAME-ORCA-predictor |
 | Borzoi Human | Borzoi_Human_20260506-022639_PDT | 1.0 | https://huggingface.co/datasets/deBoerLab/Borzoi_Predictor_GAME | Multi-assay coverage and gene regulation predictor for human (hg38) | https://github.com/de-Boer-Lab/GAME-Borzoi-human-predictor |
 | Enformer | Enformer_20260601-173514_EDT | 1.0 | https://huggingface.co/datasets/deBoerLab/Enformer_Predictor_GAME | Multi-assay coverage and gene regulation predictor using long-range interactions for human (hg38) and mus-musculus | https://github.com/de-Boer-Lab/GAME-Enformer-predictor |
