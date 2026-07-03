@@ -1,4 +1,4 @@
-### Community List of GAME Modules
+# Community List of GAME Modules
 
 If you would like to share your Evaluator or Predictor container please follow these instructions:
 
@@ -9,7 +9,7 @@ If you would like to share your Evaluator or Predictor container please follow t
 
 We encourage all contributors to include the link to their code used to build their containers. This helps users understand implementation details and allows for reusable code. 
 
-#### Predictor Modules
+## Predictor Modules
 
 
 | Predictor | Versioned Module | GAME Schema Version | Container Download link | Description | Github Repo |
@@ -25,7 +25,7 @@ We encourage all contributors to include the link to their code used to build th
 | Evo2-7B | Evo2_7b_Predictor_20260619-145824_EDT | 1.0 | https://huggingface.co/datasets/deBoerLab/Evo2_Predictor_GAME | Evo2 7B DNA language model | https://github.com/de-Boer-Lab/GAME-Evo2-predictor |
 
 
-#### Evaluator Modules
+## Evaluator Modules
 
 
 | Evaluator | Versioned Module | GAME Schema Version | Container Download link | Description | Github Repo |
@@ -44,7 +44,7 @@ We encourage all contributors to include the link to their code used to build th
 | Kircher CAGI5 MPRA | Kircher_20260529-213347_MSK | 1.0 | https://huggingface.co/datasets/Ni-os/Kircher-container | ~44k SNVs from 21 regulatory elements from CAGI5 challenge | https://github.com/autosome-ru/GAME-LegNet-predictor-CAGI5-evaluator/tree/master/Kircher_2019_Evaluator_v2 |
 | Enformer/Borzoi Test Set Track Readout | Enformer_Borzoi_TestSetOverlap_20260629-135521_EDT | 1.0 | https://huggingface.co/datasets/deBoerLab/Track_Evaluator_Borzoi_Enformer_TestSet | Evaluator to assess track readout model performance by comparing predicted chromatin accessibility tracks against ENCODE K562 ATAC-seq data | https://github.com/de-Boer-Lab/GAME-Borzoi-Enformer-TestSet-track-evaluator |
 
-#### Additional Modules
+## Additional Modules
 
 
 | Matcher | Versioned Module | GAME Schema Version | Container Download link | Description | Github Repo |
