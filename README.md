@@ -19,10 +19,9 @@ We encourage all contributors to include the link to their code used to build th
 | Borzoi_Human_20260506-022639_PDT              |  https://huggingface.co/datasets/deBoerLab/Borzoi_Predictor_GAME             | Multi-assay coverage and gene regulation predictor for human (hg38)       | https://github.com/de-Boer-Lab/GAME-Borzoi-human-predictor |
 | Enformer_20260601-173514_EDT              |  https://huggingface.co/datasets/deBoerLab/Enformer_Predictor_GAME            | Multi-assay coverage and gene regulation predictor using long-range interactions for human (hg38) and mus-musculus       |https://github.com/de-Boer-Lab/GAME-Enformer-predictor |
 | DREAM-RNN_Human_K562_20260430-012244_PDT              |  https://huggingface.co/datasets/deBoerLab/DREAMRNN_Predictor_GAME             | Promoter expression predictor (optimized RNN) for human K562 cells     | https://github.com/de-Boer-Lab/GAME-DREAM-RNN-human-k562-predictor|
-| ChromBPNet_20260528-171346_EDT              |  https://zenodo.org/records/18182691             | 45 individual chromatin accessibility models (ATAC-seq models trained for K562, GM12878, HEPG2 andIMR90; DNASE trained models for K562, GM12878, HEPG2, IMR90, H1; 5 folds for each model)     | |
 | CpG_Predictor_20260622-140930_EDT              |  https://huggingface.co/datasets/deBoerLab/CpG_Predictor_GAME            | Counter of CpG instances across the sequences    | https://github.com/de-Boer-Lab/GAME-CpG-predictor|
 | MPRALegNet_20260606-135427_MSK             |  https://huggingface.co/Ni-os/MPRALegNet-container             | CNN model optimized for predicting gene expression from human lentiMPRAs (massive parallel reporter assays) across human K562, HepG2, and WTC11 cell lines.    | https://github.com/autosome-ru/GAME-LegNet-predictor-CAGI5-evaluator/tree/master/MPRALegNet_v2 |
-| ChromBPNet_20260528-171346_EDT             |  https://huggingface.co/datasets/deBoerLab/ChromBPNet_Predictor_GAME             | Chromatin Accessibility Predictor for 5 cell types   (5 model folds) | https://github.com/de-Boer-Lab/GAME-ChromBPNet-predictor|
+| ChromBPNet_20260528-171346_EDT             |  https://huggingface.co/datasets/deBoerLab/ChromBPNet_Predictor_GAME             | 45 individual chromatin accessibility models (ATAC-seq models trained for K562, GM12878, HEPG2 andIMR90; DNASE trained models for K562, GM12878, HEPG2, IMR90, H1; 5 folds for each model)| https://github.com/de-Boer-Lab/GAME-ChromBPNet-predictor |
 | Evo2_7b_Predictor_20260619-145824_EDT             |  https://huggingface.co/datasets/deBoerLab/Evo2_Predictor_GAME             | Evo2 7B DNA language model    |https://github.com/de-Boer-Lab/GAME-Evo2-predictor |
 
 
@@ -30,7 +29,7 @@ We encourage all contributors to include the link to their code used to build th
 
 
 | Evaluator  | Container Download link  | Description | Github Repo |
-| :------------ |:---------------| :-----|
+| :------------ |:---------------| :-----|:-----|
 | Martyn et al. (2025) Variant-EFFECTS Evaluator              |  https://huggingface.co/datasets/deBoerLab/Martyn_VariantEffects_GAME/            | Variant effect predictions in THP-1 monocytes and Jurkat T cells.| |
 | Gosai et al. (2024) Synthetic CREs (51k)              |    https://zenodo.org/records/21135510           | Expression predictions for 51k synthetic sequences in K562 (erythroid precursors), HepG2 (hepatocytes) and SK-N-SH (neuroblastoma) cells| |
 | Agarwal et al. (2025) Joint Library Dataset (56k sequences)               | https://zenodo.org/records/21135333              | Expression predictions for ~56k cCREs in WTC11, K562 and HepG2| |
@@ -49,7 +48,7 @@ We encourage all contributors to include the link to their code used to build th
 
 
 | Matcher  | Container Download link  | Description |Github Repo |
-| :------------ |:---------------| :-----|
+| :------------ |:---------------| :-----|:-----|
 | Matcher V1               |     https://huggingface.co/datasets/deBoerLab/Matcher_GAME         | LLM-powered genomics ontology matcher with a recursive tournament algorithm for superior scalability and more precise, granular matching.        | https://github.com/de-Boer-Lab/GAME_matcher|
 | Predictor Distributor               |       https://huggingface.co/datasets/deBoerLab/PredictorDistributor_GAME     | Transparent load balancer/ orchestrater module to speed up predictions by dividing request across available Predictor nodes.     |https://github.com/de-Boer-Lab/GAME-predictor-distributor |
 
